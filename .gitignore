@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.secrets
+.DS_Store
+.quarto
+attic/*
+data-raw/wood-survey-data-master/*
+!data-raw/wood-survey-data-master/neon-logo.png
+!data-raw/wood-survey-data-master/references.bib
